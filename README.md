@@ -1,1 +1,3 @@
-# iros_2021_logs
+# F1TENTH IROS 2021 Competition Head-to-Head Results
+
+To replay each race, use the log player provided at [https://gitlab.com/acrome-colab/riders-poc/f1tenth-log-player](https://gitlab.com/acrome-colab/riders-poc/f1tenth-log-player). Follow the instructions to install the library in a virtualenv. Then, change the path specified in `src/main.py` to the `.jsonl` file you're interested to review from this repository and run `src/main.py`.
